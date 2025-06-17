@@ -17,7 +17,8 @@ from sklearn.tree import DecisionTreeClassifier
 
 # --- config.py
 # Macros are to be defined in config.py (they are here now for convenience)
-RESULT_DIR = Path("./Benchmark/results")
+BASE_DIR = Path(".")
+RESULT_DIR = BASE_DIR / "dummy_results"
 RESULT_DIR.mkdir(exist_ok=True)
 
 # Define other parameters
