@@ -1,0 +1,11 @@
+dataset,scoring,seed,model,cv_fold,evaluation
+3,matthews_corrcoef,1444,DecisionTreeClassifier,0,0.3871891344681415
+3,matthews_corrcoef,1444,RandomForestClassifier,0,0.3698789243170342
+3,matthews_corrcoef,1444,DecisionTreeClassifier,1,0.3089257722364209
+3,matthews_corrcoef,1444,RandomForestClassifier,1,0.6228663965582484
+3,matthews_corrcoef,1444,DecisionTreeClassifier,2,0.3883637263339653
+3,matthews_corrcoef,1444,RandomForestClassifier,2,0.4438193292561706
+3,matthews_corrcoef,1444,DecisionTreeClassifier,3,0.49131565703032487
+3,matthews_corrcoef,1444,RandomForestClassifier,3,0.5442713172286968
+3,matthews_corrcoef,1444,DecisionTreeClassifier,4,0.4565990833466923
+3,matthews_corrcoef,1444,RandomForestClassifier,4,0.6142020781191926

@@ -1,0 +1,11 @@
+dataset,scoring,seed,model,cv_fold,evaluation
+1,accuracy_score,1444,DecisionTreeClassifier,0,0.8143345177736173
+1,accuracy_score,1444,RandomForestClassifier,0,0.5890130525955473
+1,accuracy_score,1444,DecisionTreeClassifier,1,0.40884859067382406
+1,accuracy_score,1444,RandomForestClassifier,1,0.7456125231334305
+1,accuracy_score,1444,DecisionTreeClassifier,2,0.5052409053331248
+1,accuracy_score,1444,RandomForestClassifier,2,0.19343320807887077
+1,accuracy_score,1444,DecisionTreeClassifier,3,0.587487421676165
+1,accuracy_score,1444,RandomForestClassifier,3,0.5831934783642712
+1,accuracy_score,1444,DecisionTreeClassifier,4,0.9430049808604223
+1,accuracy_score,1444,RandomForestClassifier,4,0.5084673675602618
